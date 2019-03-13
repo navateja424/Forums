@@ -1,0 +1,11 @@
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\bin\Debug\netcoreapp2.2\LambdaForums.Data.deps.json
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\bin\Debug\netcoreapp2.2\LambdaForums.Data.runtimeconfig.json
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\bin\Debug\netcoreapp2.2\LambdaForums.Data.runtimeconfig.dev.json
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\bin\Debug\netcoreapp2.2\LambdaForums.Data.dll
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\bin\Debug\netcoreapp2.2\LambdaForums.Data.pdb
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.2\LambdaForums.Data.csproj.CoreCompileInputs.cache
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.2\LambdaForums.Data.AssemblyInfoInputs.cache
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.2\LambdaForums.Data.AssemblyInfo.cs
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.2\LambdaForums.Data.dll
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.2\LambdaForums.Data.pdb
+C:\Users\gajulan1\Documents\gajulan1\Training\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.2\LambdaForums.Data.csprojAssemblyReference.cache
